@@ -17,9 +17,6 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 6. Choreographing Movement](https://github.com/MintMin/Mobile_HRI_Lab_Hub/blob/main/Lab6/Readme.md)
 
-[Lab 7. Finding People to Interact with](https://github.com/MintMin/Mobile_HRI_Lab_Hub/blob/main/Lab7/Readme.md)
+[Lab 7 + 8 Finding People to Interact with + Chatty Robot](https://github.com/MintMin/Mobile_HRI_Lab_Hub/blob/main/Lab7/Readme.md)
 
-Lab 8. Chatty Robots
-
-Final Project
-
+[Final Project](https://docs.google.com/document/d/1oyIfgoewZ5EKNI9l7gVJhEMO4pmvLfiknOzNXydIV80/edit?usp=sharing/export?format=pdf)
